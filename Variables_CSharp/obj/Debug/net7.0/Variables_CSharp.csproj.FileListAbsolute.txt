@@ -1,0 +1,15 @@
+D:\NewGit\Variables_CSharp\Variables_CSharp\bin\Debug\net7.0\Variables_CSharp.exe
+D:\NewGit\Variables_CSharp\Variables_CSharp\bin\Debug\net7.0\Variables_CSharp.deps.json
+D:\NewGit\Variables_CSharp\Variables_CSharp\bin\Debug\net7.0\Variables_CSharp.runtimeconfig.json
+D:\NewGit\Variables_CSharp\Variables_CSharp\bin\Debug\net7.0\Variables_CSharp.dll
+D:\NewGit\Variables_CSharp\Variables_CSharp\bin\Debug\net7.0\Variables_CSharp.pdb
+D:\NewGit\Variables_CSharp\Variables_CSharp\obj\Debug\net7.0\Variables_CSharp.csproj.AssemblyReference.cache
+D:\NewGit\Variables_CSharp\Variables_CSharp\obj\Debug\net7.0\Variables_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewGit\Variables_CSharp\Variables_CSharp\obj\Debug\net7.0\Variables_CSharp.AssemblyInfoInputs.cache
+D:\NewGit\Variables_CSharp\Variables_CSharp\obj\Debug\net7.0\Variables_CSharp.AssemblyInfo.cs
+D:\NewGit\Variables_CSharp\Variables_CSharp\obj\Debug\net7.0\Variables_CSharp.csproj.CoreCompileInputs.cache
+D:\NewGit\Variables_CSharp\Variables_CSharp\obj\Debug\net7.0\Variables_CSharp.dll
+D:\NewGit\Variables_CSharp\Variables_CSharp\obj\Debug\net7.0\refint\Variables_CSharp.dll
+D:\NewGit\Variables_CSharp\Variables_CSharp\obj\Debug\net7.0\Variables_CSharp.pdb
+D:\NewGit\Variables_CSharp\Variables_CSharp\obj\Debug\net7.0\Variables_CSharp.genruntimeconfig.cache
+D:\NewGit\Variables_CSharp\Variables_CSharp\obj\Debug\net7.0\ref\Variables_CSharp.dll
